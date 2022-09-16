@@ -6,16 +6,16 @@ var MegaProtoman = {
   name: "Israel",
   lastname: "Huanca",
   codes: {
-    basic: ['Python', 'C#', 'Java'],
-    medium: ['C++', 'HTML', 'CSS'],
-    avanced: ['JavaScript', 'GML'],
+    basic: [Python, 'C#', Java],
+    medium: ['C++', HTML, CSS],
+    avanced: [JavaScript, GML],
   },
   tools: {
     basic: [React, Node, Redux],
   },
   languages: {
-    native: 'Español',
-    basic: 'English',
+    native: Español,
+    basic: English,
   },
 }
 ```
