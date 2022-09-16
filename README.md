@@ -13,6 +13,7 @@ var MegaProtoman = {
   tools: {
     basic: [React, Node, Redux],
   },
+  devTools: [visualStudioCode, sublimeText, GIT],
   languages: {
     native: Español,
     basic: English,
