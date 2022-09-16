@@ -1,14 +1,21 @@
 ### Hi there 👋
 
-<!--
-**Megaprotoman12/Megaprotoman12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ```js
 var MegaProtoman = {
-  
+  age: 19,
+  code: {
+    basic = ['python', 'c#', 'java'],
+    medium = ['c++', 'HTML', 'CSS'],
+    avanced = ['javaScript', 'GML']
+  }
 
 }
 ```
+
+<!--
+**Megaprotoman12/Megaprotoman12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
