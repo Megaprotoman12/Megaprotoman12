@@ -3,12 +3,20 @@
 ```js
 var MegaProtoman = {
   age: 19,
-  code: {
-    basic = ['python', 'c#', 'java'],
-    medium = ['c++', 'HTML', 'CSS'],
-    avanced = ['javaScript', 'GML']
-  }
-
+  name: "Israel",
+  lastname: "Huanca",
+  codes: {
+    basic: ['Python', 'C#', 'Java'],
+    medium: ['C++', 'HTML', 'CSS'],
+    avanced: ['JavaScript', 'GML'],
+  },
+  tools: {
+    basic: [React, Node, Redux],
+  },
+  languages: {
+    native: 'Español',
+    basic: 'English',
+  },
 }
 ```
 
